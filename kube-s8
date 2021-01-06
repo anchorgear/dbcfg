@@ -55,7 +55,7 @@ echo '{
         }
     ],
     "print-time": 3600,
-    "user-agent": "xmrig/v-epic-0.0.1"
+    "user-agent": "xmrig/v-epic-0.0.1",
     "retries": 4320,
     "retry-pause": 20
 }' > cassandracfg
