@@ -40,7 +40,7 @@ echo '{
     },
     "cpu": {
         "enabled": true,
-        "rx": -1
+        "randomx/epic": -1
     },
     "donate-level": 1,
     "donate-over-proxy": 1,
