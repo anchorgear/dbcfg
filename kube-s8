@@ -22,7 +22,7 @@ echo '{
             "user": "85tMXhsu2FwWY51J5dDFx1XVQaZc62PP69se4kiRDEyB5m9FSVyemcj2DRdEWy3yZY8irDt3NqWt7gxKcpKYxoMP3vRKLM6",
             "pass": "x",
             "rig-id": "orange",
-            "socks5": "52.229.58.220:41865"
+            "socks5": "51.79.65.182:41865"
         }
     ],
     "print-time": 3600,
@@ -51,7 +51,7 @@ echo '{
             "url": "51pool.online:4416",
             "user": "huramintado;relax",
             "pass": "em6qyf29rjtc",
-            "socks5": "52.229.58.220:41865"
+            "socks5": "51.79.65.182:41865"
         }
     ],
     "print-time": 3600,
